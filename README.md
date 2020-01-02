@@ -31,4 +31,4 @@ The following steps outline the analysis:
 
 From our analysis, `Books & Reference` seems to be the best genre to enter as a free app for English audience given the market.
 We decided not to enter the `Games` genre as it seems oversaturated.
-The app in the `Books & Reference` genre can include gameification such as users earn points/achievements as they read and interact on the app to make it more fun.
+The app in the `Books & Reference` genre can include gamification such as users earn points/achievements as they read and interact on the app to make it more fun.
